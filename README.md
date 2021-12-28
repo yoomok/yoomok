@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m 유승목
-- 👀 I’m interested in 자동차
-- 🌱 I’m currently learning 레이더
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
